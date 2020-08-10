@@ -30,7 +30,9 @@ public class FillingTiles {
         result = 3 * dp(x - 2);
 
         for (int i = 3; x >= i; ++i) {    // x-4 , x-6 , x-8 , ~~~ 0 에서 각각 2개의 경우의 수가 추가로 발생된다. 위에서 x가 0일때의 return 설정을 하지 않으면 여기서 에러발생.
-            result += 2 * dp(x - i);
+            if(i % 2 ==0){
+                result += 2 * dp(x - i);
+            }
         }
 		return arr[x]=result;
     }
