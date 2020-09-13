@@ -5,3 +5,5 @@
   - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/hash02.java">hash문제 02</a><p2> 문제 설명 - </p2><a href="https://programmers.co.kr/learn/courses/30/lessons/42577">(프로그래머스 - 전화번호 목록)</a>
   - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/hash03.java">hash문제 03</a><p2> 문제 설명 - </p2><a href="https://programmers.co.kr/learn/courses/30/lessons/42578">(프로그래머스 - 위장)</a>
   - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/hash03.java">hash문제 04</a><p2> 문제 설명 - </p2><a href="https://programmers.co.kr/learn/courses/30/lessons/42579">(프로그래머스 - 베스트앨범)</a>
+  - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/stack.java">스택/큐 01</a><p2> 문제 설명 - </p2><a href="https://programmers.co.kr/learn/courses/30/lessons/42584">(프로그래머스 - 주식가격)</a>  
+  - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/stack2.java">스택/큐 02</a><p2> 문제 설명 - </p2><a href="https://programmers.co.kr/learn/courses/30/lessons/42586">(프로그래머스 - 기능개발)</a>
