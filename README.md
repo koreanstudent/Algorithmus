@@ -9,3 +9,4 @@
   - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/stack2.java">스택/큐 02</a><p2> 문제 설명 - </p2><a href="https://programmers.co.kr/learn/courses/30/lessons/42586">(프로그래머스 - 기능개발)</a>
   - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/dollDraw.java">크레인 인형뽑기 게임</a><p2> 문제 설명 - </p2><a href="https://programmers.co.kr/learn/courses/30/lessons/64061">(프로그래머스 - 크레인 인형뽑기 게임 )</a>
   - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/dollDraw.java">k번째수</a><p2> 문제 설명 - </p2><a href="https://programmers.co.kr/learn/courses/30/lessons/42748">(프로그래머스 - k번째수 )</a>
+  - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/dollDraw.java">모의고사</a><p2> 문제 설명 - </p2><a href="https://programmers.co.kr/learn/courses/30/lessons/42840">(프로그래머스 - 모의고사 )</a>
