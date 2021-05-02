@@ -11,3 +11,6 @@
   - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/kNumber.java">k번째수</a><p2> 문제 설명 - </p2><a href="https://programmers.co.kr/learn/courses/30/lessons/42748">(프로그래머스 - k번째수 )</a>
   - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/practiceTest.java">모의고사</a><p2> 문제 설명 - </p2><a href="https://programmers.co.kr/learn/courses/30/lessons/42840">(프로그래머스 - 모의고사 )</a>
   - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/gymSuit.java">체육복</a><p2> 문제 설명 - </p2><a href="https://programmers.co.kr/learn/courses/30/lessons/42862">(프로그래머스 - 탐욕법 )</a>
+
+# 인프런강의 알고리즘
+  - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/java01.java">1. 문자 찾기</a>
