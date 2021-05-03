@@ -20,4 +20,5 @@
   - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/java05.java">5. 특정 문자 뒤집기(toCharArray())</a>
   - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/java06.java">6. 중복문자제거</a>
   - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/java07.java">7. 회문 문자열(equalsIgnoreCase())</a>
-  - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/java09.java">8. 유효한 팰린드롬</a>
+  - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/java08.java">8. 유효한 팰린드롬</a>
+  - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/java09.java">9. 숫자만 추출</a>
