@@ -13,6 +13,7 @@
   - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/gymSuit.java">체육복</a><p2> 문제 설명 - </p2><a href="https://programmers.co.kr/learn/courses/30/lessons/42862">(프로그래머스 - 탐욕법 )</a>
 
 # 인프런강의 알고리즘
+ 1. 문자열
   - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/java01.java">1. 문자 찾기</a> 
   - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/java02.java">2. 대소문자 변환</a>
   - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/java03.java">3. 문장 속 단어(indexOf(), substring())</a>
@@ -22,3 +23,4 @@
   - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/java07.java">7. 회문 문자열(equalsIgnoreCase())</a>
   - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/java08.java">8. 유효한 팰린드롬</a>
   - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/java09.java">9. 숫자만 추출</a>
+  - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/java10.java">10. 가장 짧은 문자거리</a>
