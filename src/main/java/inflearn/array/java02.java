@@ -28,12 +28,14 @@ import java.util.Scanner;
 //        5
 
 public class java02 {
-    public ArrayList<Integer> solution(int n, int[] arr) {
-        ArrayList<Integer> answer = new ArrayList<>();
-        answer.add(arr[0]);
+    public int solution(int n, int[] arr) {
+        int answer =1,max = arr[0];
 
-        for(int i=1; i<n; i++){
-            if(arr[i] > arr[i-1]) answer.add(arr[i]);
+        for(int i = 1; i<n; i++){
+            if(arr[i] > max){
+                answer++;
+                max= arr[i];
+            }
         }
 
         return answer;
@@ -47,9 +49,7 @@ public class java02 {
         for(int i=0; i<n; i++){
             arr[i] =scanner.nextInt();
         }
-        for(int x : T.solution(n,arr)){
-            System.out.println(x + " ");
-        }
+        System.out.println(T.solution(n,arr));
 
 
 
