@@ -1,6 +1,5 @@
-package inflearn;
+package inflearn.string;
 
-import java.util.ArrayList;
 import java.util.Scanner;
 
 //    5. 특정 문자 뒤집기

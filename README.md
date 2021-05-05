@@ -14,16 +14,19 @@
 
 # 인프런강의 알고리즘
  1. 문자열
-  - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/java01.java">1. 문자 찾기</a> 
-  - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/java02.java">2. 대소문자 변환</a>
-  - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/java03.java">3. 문장 속 단어(indexOf(), substring())</a>
-  - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/java04.java">4. 단어 뒤집기(StringBuilder 사용 및 직접 뒤집기)</a>
-  - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/java05.java">5. 특정 문자 뒤집기(toCharArray())</a>
-  - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/java06.java">6. 중복문자제거</a>
-  - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/java07.java">7. 회문 문자열(equalsIgnoreCase())</a>
-  - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/java08.java">8. 유효한 팰린드롬</a>
-  - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/java09.java">9. 숫자만 추출</a>
-  - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/java10.java">10. 가장 짧은 문자거리</a>
-  - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/java11.java">11. 문자열 압축</a>
-  - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/java12.java">12. 암호</a>
+  - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/string/java01.java">1. 문자 찾기</a> 
+  - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/string/java02.java">2. 대소문자 변환</a>
+  - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/string/java03.java">3. 문장 속 단어(indexOf(), substring())</a>
+  - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/string/java04.java">4. 단어 뒤집기(StringBuilder 사용 및 직접 뒤집기)</a>
+  - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/string/java05.java">5. 특정 문자 뒤집기(toCharArray())</a>
+  - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/string/java06.java">6. 중복문자제거</a>
+  - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/string/java07.java">7. 회문 문자열(equalsIgnoreCase())</a>
+  - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/string/java08.java">8. 유효한 팰린드롬</a>
+  - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/string/java09.java">9. 숫자만 추출</a>
+  - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/string/java10.java">10. 가장 짧은 문자거리</a>
+  - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/string/java11.java">11. 문자열 압축</a>
+  - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/string/java12.java">12. 암호</a>
 
+ 2. Array(1, 2차원 배열)
+  - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/array/java01.java">1. 큰 수 출력하기</a>
+  - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/array/java02.java">2. 보이는 학생</a>
