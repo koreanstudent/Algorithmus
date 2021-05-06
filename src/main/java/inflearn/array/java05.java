@@ -26,7 +26,7 @@ import java.util.Scanner;
 //        8
 
 public class java05 {
-
+    // 에라토스테네스의 체 2의배수를 지운다 3의 배수를 지운다 차례대로 ...
     public int solution(int n) {
         int answer =0;
         int[] ch = new int[n+1];
