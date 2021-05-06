@@ -26,6 +26,16 @@ import java.util.Scanner;
 //        1 1 2 3 5 8 13 21 34 55
 
 public class java04 {
+    // 배열없이 코딩
+//    public void solution(int n){
+//        int a=1, b=1, c;
+//        for(int i=2; i<n; i++){
+//            c= a+b;
+//            a=b;
+//            b=c;
+//        }
+//        return answer;
+//    }
     public int[] solution(int n) {
         int[] answer = new int[n];
         answer[0] = 1;
