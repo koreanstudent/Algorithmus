@@ -32,3 +32,4 @@
   - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/array/java02.java">2. 보이는 학생</a>
   - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/array/java03.java">3. 가위 바위 보</a>
   - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/array/java04.java">4. 피보나치 수열</a>
+  - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/array/java05.java">5. 소수(에라토스테네스 체)</a>
