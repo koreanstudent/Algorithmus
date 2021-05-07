@@ -36,3 +36,4 @@
   - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/array/java06.java">6. 뒤집은 소수</a>
   - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/array/java07.java">7. 점수계산</a>
   - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/array/java08.java">8. 등수구하기</a>
+  - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/array/java09.java">9. 격자판 최대합</a>
