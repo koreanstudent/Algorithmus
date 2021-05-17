@@ -46,3 +46,5 @@
   - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/Towpointers_Slidingwindow/java02.java">2. 공통원소 구하기(two pointers algorithm)</a>
   - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/Towpointers_Slidingwindow/java03.java">3. 최대 매출(Sliding window)</a>
   - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/Towpointers_Slidingwindow/java04.java">4. 연속 부분수열</a>
+  - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/Towpointers_Slidingwindow/java05.java">5. 연속된 자연수의 합</a>
+  - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/Towpointers_Slidingwindow/java06.java">6. 최대 길이 연속부분수열</a>
