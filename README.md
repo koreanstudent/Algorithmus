@@ -48,3 +48,6 @@
   - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/Towpointers_Slidingwindow/java04.java">4. 연속 부분수열</a>
   - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/Towpointers_Slidingwindow/java05.java">5. 연속된 자연수의 합</a>
   - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/Towpointers_Slidingwindow/java06.java">6. 최대 길이 연속부분수열</a>
+
+ 4. HashMap, TreeSet
+  - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/hashMap/java01.java">1. 학급 회장(해쉬)</a>
