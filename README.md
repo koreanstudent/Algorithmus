@@ -15,7 +15,7 @@
 # 인프런강의 알고리즘
  1. 문자열
   - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/string/java01.java">1. 문자 찾기</a> 
-  - ###### <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/string/java02.java">2. 대소문자 변환</a>
+  - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/string/java02.java">2. 대소문자 변환</a>
   - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/string/java03.java">3. 문장 속 단어(indexOf(), substring())</a>
   - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/string/java04.java">4. 단어 뒤집기(StringBuilder 사용 및 직접 뒤집기)</a>
   - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/string/java05.java">5. 특정 문자 뒤집기(toCharArray())</a>
