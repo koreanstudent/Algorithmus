@@ -3,7 +3,7 @@ package inflearn.hashMap;
 import java.util.HashMap;
 import java.util.Scanner;
 
-//    2. 아나그램(해쉬)
+//
 //        설명
 //
 //        Anagram이란 두 문자열이 알파벳의 나열 순서를 다르지만 그 구성이 일치하면 두 단어는 아나그램이라고 합니다.
