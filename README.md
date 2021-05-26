@@ -55,3 +55,6 @@
   - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/hashMap/java03.java">3. 매출액의 종류</a>
   - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/hashMap/java04.java">4. 모든 아나그램 찾기</a>
   - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/hashMap/java05.java">5. K번째 큰 수</a>
+
+ 5. Stack, Queue(자료구조)
+  - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/stackAndQueue/java01.java">1. 올바른 괄호</a>
