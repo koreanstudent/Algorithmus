@@ -53,3 +53,5 @@
   - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/hashMap/java01.java">1. 학급 회장(해쉬)</a>
   - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/hashMap/java02.java">2. 아나그램(해쉬)</a>
   - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/hashMap/java03.java">3. 매출액의 종류</a>
+  - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/hashMap/java04.java">4. 모든 아나그램 찾기</a>
+  - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/hashMap/java05.java">5. K번째 큰 수</a>
