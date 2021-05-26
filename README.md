@@ -58,3 +58,4 @@
 
  5. Stack, Queue(자료구조)
   - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/stackAndQueue/java01.java">1. 올바른 괄호</a>
+  - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/stackAndQueue/java02.java">2. 괄호문자제거</a>

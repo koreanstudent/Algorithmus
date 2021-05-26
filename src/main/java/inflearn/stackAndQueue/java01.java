@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Scanner;
 import java.util.Stack;
 
-//  1. 올바른 괄호
+//
 //        설명
 //
 //        괄호가 입력되면 올바른 괄호이면 “YES", 올바르지 않으면 ”NO"를 출력합니다.
