@@ -60,3 +60,4 @@
   - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/stackAndQueue/java01.java">1. 올바른 괄호</a>
   - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/stackAndQueue/java02.java">2. 괄호문자제거</a>
   - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/stackAndQueue/java03.java">3. 후위식 연산(postfix)</a>
+  - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/stackAndQueue/java04.java">4. 쇠막대기</a>
