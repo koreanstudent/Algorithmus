@@ -67,3 +67,4 @@
       
  6. Sorting and Searching(정렬, 이분검색과 결정알고리즘)
   - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/SortingAndSearching/java01.java">1. 선택정렬</a>
+  - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/SortingAndSearching/java02.java">2. 버블정렬</a>
