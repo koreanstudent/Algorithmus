@@ -62,3 +62,5 @@
   - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/stackAndQueue/java03.java">3. 후위식 연산(postfix)</a>
   - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/stackAndQueue/java04.java">4. 쇠막대기</a>
   - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/stackAndQueue/java05.java">5. 공주 구하기</a>
+  - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/stackAndQueue/java06.java">6. 교육과정 설계</a>
+  - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/stackAndQueue/java07.java">7. 응급실</a>
