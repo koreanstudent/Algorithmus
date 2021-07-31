@@ -64,3 +64,6 @@
   - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/stackAndQueue/java05.java">5. 공주 구하기</a>
   - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/stackAndQueue/java06.java">6. 교육과정 설계</a>
   - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/stackAndQueue/java07.java">7. 응급실</a>
+      
+ 6. Sorting and Searching(정렬, 이분검색과 결정알고리즘)
+  - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/SortingAndSearching/java01.java">1. 선택정렬</a>

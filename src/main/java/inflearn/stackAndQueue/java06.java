@@ -50,9 +50,7 @@ public class java06 {
         String answer="YES";
         Queue<Character> Q = new LinkedList<>();
         for(char x: need.toCharArray()) Q.offer(x);
-        System.out.println(Q.toArray());
         for(char x: plan.toCharArray()){
-            System.out.println(x);
             if(Q.contains(x)){
                 if(x!= Q.poll()) return "NO";
             }
