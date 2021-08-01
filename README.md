@@ -71,3 +71,4 @@
   - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/SortingAndSearching/java03.java">3. 삽입정렬</a>
   - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/SortingAndSearching/java04.java">4. Least Recently Used</a>
   - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/SortingAndSearching/java05.java">5. 중복 확인</a>
+  - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/SortingAndSearching/java06.java">6. 장난꾸러기</a>
