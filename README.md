@@ -74,3 +74,5 @@
   - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/SortingAndSearching/java06.java">6. 장난꾸러기</a>
   - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/SortingAndSearching/java07.java">7. 좌표 정렬</a>
   - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/SortingAndSearching/java08.java">8. 이분검색</a>
+  - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/SortingAndSearching/java09.java">9. 뮤직비디오(결정알고리즘)</a>
+  - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/SortingAndSearching/java10.java">10. 마구간 정하기(결정알고리즘)</a>
