@@ -76,3 +76,6 @@
   - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/SortingAndSearching/java08.java">8. 이분검색</a>
   - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/SortingAndSearching/java09.java">9. 뮤직비디오(결정알고리즘)</a>
   - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/SortingAndSearching/java10.java">10. 마구간 정하기(결정알고리즘)</a>
+
+ 7. Recursive, Tree, Graph(DFS, BFS 기초)
+  - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/RecursiveAndTreeAndGraph/java01.java">01. 재귀함수</a>
