@@ -79,3 +79,5 @@
 
  7. Recursive, Tree, Graph(DFS, BFS 기초)
   - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/RecursiveAndTreeAndGraph/java01.java">01. 재귀함수</a>
+  - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/RecursiveAndTreeAndGraph/java02.java">02. 재귀함수 -> 이진수 출력</a>
+  - <a href="https://github.com/koreanstudent/Algorithmus/blob/master/src/main/java/inflearn/RecursiveAndTreeAndGraph/java03.java">03. 팩토리얼</a>
